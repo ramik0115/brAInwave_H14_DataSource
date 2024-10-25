@@ -36,7 +36,7 @@ Our workflow consists of several key phases that guide our project from data col
 [Google Colab Files for Evaluation](https://github.com/ramik0115/Colab_Notebooks_brAInwave_TeamH14)
 
 ## OnDemand AI Agent Overview
-![OnDemand AI Agent Overview](AI_Agent_Arch.JPG)
+![OnDemand AI Agent Overview](AI_Agent_Arch.jpg)
 
 
 ## Getting Started
