@@ -33,6 +33,8 @@ Our workflow consists of several key phases that guide our project from data col
 
 9. **Integration with LLM Chatbot**: To further enhance the research experience, we incorporate an AI-powered chatbot using [OnDemand.io](https://www.ondemand.io). This chatbot automates initial research steps for R&D professionals, providing real-time assistance and streamlining workflows.
 
+[Google Colab Files for Evaluation](https://github.com/ramik0115/Colab_Notebooks_brAInwave_TeamH14)
+
 ## Getting Started
 
 ### Prerequisites
