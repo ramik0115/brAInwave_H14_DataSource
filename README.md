@@ -35,6 +35,32 @@ Our workflow consists of several key phases that guide our project from data col
 
 [Google Colab Files for Evaluation](https://github.com/ramik0115/Colab_Notebooks_brAInwave_TeamH14)
 
+## Team Members and Roles
+
+1. **Jayani Sehgal**
+
+- Led the Data Collection process, gathering comprehensive datasets on FDA-approved drugs from reliable sources.
+- Ensured data quality by performing Data Preprocessing, cleaning, and formatting data for consistency and accuracy.
+- Supported exploratory analysis by preparing initial summaries of key dataset features.
+
+2. **Dev Maurya**
+
+- Conducted Exploratory Data Analysis (EDA) to identify important patterns and trends within the data, providing insights into potential factors influencing drug bioactivity.
+- Worked closely with Member 1 to visualize data, utilizing advanced plotting techniques for a deeper understanding of the dataset.
+- Helped in deciding relevant features to consider during Model Building.
+
+3. **Ramik Tiwari**
+
+- Focused on Molecular Descriptor Calculation, creating numerical representations of each drug molecule to enrich the dataset with valuable chemical information.
+- Took charge of Dataset Preparation to ensure efficient training and testing, handling the structuring and formatting of data to maximize model performance.
+- Developed, tuned, and optimized several Machine Learning Models, experimenting with different algorithms and hyperparameters to enhance predictive accuracy.
+
+4. **Prabhat Mishra**
+
+- Led the Model Comparison stage, rigorously evaluating the performance of different models to identify the most accurate predictor.
+- Handled Deployment by building a user-friendly Streamlit web application that allows end-users to access drug bioactivity predictions.
+- Integrated an LLM Chatbot using OnDemand.io, automating initial research steps to assist R&D professionals, thus providing seamless access to relevant research insights.
+
 ## OnDemand AI Agent Overview
 ![OnDemand AI Agent Overview](AI_Agent_Arch.jpg)
 
