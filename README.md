@@ -72,33 +72,16 @@ Our workflow consists of several key phases that guide our project from data col
 - [Streamlit](https://streamlit.io/)
 - [OnDemand.io API Key](https://ondemand.io/)
 - Other necessary libraries as listed in `requirements.txt`
-- 
-
-
-
-### Installation
+  
+### Installation and Usage
 To set up the project locally, clone the repository and install the required packages:
 
 1. Clone the Repository
-2. Set Up a Virtual Environment
-Create a virtual environment:
-Activate the virtual environment:
-3. Install Dependencies
-
 ```bash
 git clone https://github.com/ramik0115/brAInwave_H14_DataSource.git
 cd brAInwave_H14_DataSource
-python -m venv env
-.\env\Scripts\activate
-source env/bin/activate
-pip install -r requirements.txt
-pip freeze > requirements.txt
-pip install streamlit
-streamlit run IntegratedWebApp.py
-streamlit run onDemand_Chatbot2.py
-
-
 ```
+
 2. Set Up a Virtual Environment
 ```bash
 python -m venv env
